@@ -1,7 +1,7 @@
 {
   "author": "Eros",
   "version": "1.1.0.2",
-  "description": "\u751f\u6b7b\u8f2a\u8ff4\u4e00\u9580\u958b\uff0c\u518d\u8d77\u6bba\u52ab\u6d17\u925b\u83ef",
+  "description": "\u751F\u6B7B\u8F2A\u8FF4\u4E00\u9580\u958B\uFF0C\u518D\u8D77\u6BBA\u52AB\u6D17\u925B\u83EF",
   "supportedJobs": [
     {
       "job": "SAM",
